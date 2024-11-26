@@ -1,1 +1,1 @@
-# interestRateCalculator
+# coding-project-template
